@@ -1,0 +1,342 @@
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 2985px;
+height: 1053px;
+
+background: #000000;
+border-radius: 70px;
+
+
+/* Vector */
+
+
+position: absolute;
+width: 1223px;
+height: 1161px;
+left: 3449px;
+top: 2436px;
+
+background: linear-gradient(90.02deg, #FFFFFF 0.02%, rgba(0, 0, 0, 0) 99.98%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+
+position: absolute;
+width: 1223px;
+height: 1161px;
+left: -368px;
+top: 819px;
+
+background: linear-gradient(90.02deg, #FFFFFF 0.02%, rgba(0, 0, 0, 0) 99.98%);
+
+
+/* Union */
+
+
+position: absolute;
+width: 2985px;
+height: 3076px;
+left: 0px;
+top: 687px;
+
+background: #FFFFFF;
+box-shadow: 0px 7.1px 26.62px rgba(0, 0, 0, 0.5);
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 2985px;
+height: 707px;
+left: 0px;
+top: 1609px;
+
+background: linear-gradient(180deg, rgba(255, 255, 255, 0.85) 0%, rgba(226, 243, 255, 0.765) 100%);
+
+
+/* Union */
+
+
+position: absolute;
+width: 2985px;
+height: 895px;
+left: 0px;
+top: 2858px;
+
+background: linear-gradient(180deg, rgba(0, 15, 27, 0.85) 0%, rgba(0, 2, 4, 0.765) 100%);
+
+
+/* THE YALE SCHOOL OF ART IS A GRADUATE SCHOOL THAT CONFERS MASTER OF FINE ARTS DEGREES IN GRAPHIC DESIGN, PAINTING/PRINTMAKING, PHOTOGRAPHY, AND SCULPTURE The graduate student’s primary educational experience at Yale is centered on the student’s own studio activity. Supporting this enterprise are the experience, knowledge, and skills gained from rigorous, structured courses such as drawing, filmmaking, the relativity of color, and the rich academic offerings found throughout Yale. Each student is routinely exposed to many aesthetic positions through encounters with faculty members and visitors. The School is devoted not only to the refinement of visual skills, but also to the cultivation of the mind. Students must bring creative force and imagination to their own development, for these qualities cannot be taught—they can only be stimulated and appreciated. */
+
+
+position: absolute;
+width: 2317px;
+height: 678px;
+left: 334px;
+top: 1618px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 900;
+font-size: 42px;
+line-height: 53px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+mix-blend-mode: normal;
+
+
+/* Each department has its own visitors program in which professionals from outside the School are invited to lecture to students or take part in critiques. The School also facilitates a public all-school lecture program, in which ideas of general and cross-disciplinary importance are explored by visiting artists and members of the faculty in events typically hosted in the evening that are free and open to the public. */
+
+
+position: absolute;
+width: 1325px;
+height: 562px;
+left: 1600px;
+top: 3072px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 600;
+font-size: 40px;
+line-height: 51px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* The degree of Master of Fine Arts is the only degree offered by the School of Art. It is conferred by the University upon recommendation of the faculty after successful completion of all course work in residence and after a thesis presentation that has been approved by the faculty. It implies distinctive achievement on the part of students in studies in the professional area of their choice and demonstrated capacity for independent work. */
+
+
+position: absolute;
+width: 1310px;
+height: 612px;
+left: 91px;
+top: 3044px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 600;
+font-size: 41px;
+line-height: 52px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 2985px;
+height: 542px;
+left: 0px;
+top: 2316px;
+
+background: linear-gradient(180deg, rgba(0, 15, 27, 0.85) 0%, rgba(0, 2, 4, 0.765) 100%);
+
+
+/* Group 2 */
+
+
+position: absolute;
+width: 875.77px;
+height: 398.54px;
+left: 1814px;
+top: 2385px;
+
+
+
+/* Group 1 */
+
+
+position: absolute;
+width: 1028px;
+height: 398.54px;
+left: 243px;
+top: 2378px;
+
+
+
+/* qAU2ZHqo9ro */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 3022px;
+height: 987px;
+left: calc(50% - 3022px/2 - 18.5px);
+top: 639px;
+
+background: url(.jpg);
+border: 2px solid #000000;
+filter: blur(4px);
+
+
+/* Vector */
+
+
+position: absolute;
+width: 675.19px;
+height: 646.55px;
+left: 337.19px;
+top: 822px;
+
+background: linear-gradient(90.02deg, rgba(255, 255, 255, 0.03) 0.02%, rgba(0, 0, 0, 0) 99.98%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Vector */
+
+
+position: absolute;
+width: 675.19px;
+height: 646.55px;
+left: 328.19px;
+top: 1400px;
+
+background: linear-gradient(90.02deg, rgba(255, 255, 255, 0.17) 0.02%, rgba(0, 0, 0, 0) 99.98%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* About the School */
+
+
+position: absolute;
+width: 1216px;
+height: 212px;
+left: 884px;
+top: 1026px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 800;
+font-size: 138px;
+line-height: 175px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Vector */
+
+
+position: absolute;
+width: 675.19px;
+height: 646.55px;
+left: 3285.19px;
+top: 2535px;
+
+background: linear-gradient(90.02deg, #FFFFFF 0.02%, rgba(0, 0, 0, 0) 99.98%);
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Line 1 */
+
+
+position: absolute;
+width: 1272px;
+height: 0px;
+left: 111px;
+top: 3010px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Line 2 */
+
+
+position: absolute;
+width: 1272px;
+height: 0px;
+left: 1616px;
+top: 3010px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 1272px;
+height: 0px;
+left: 1616px;
+top: 3656px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Line 4 */
+
+
+position: absolute;
+width: 1272px;
+height: 0px;
+left: 87px;
+top: 3656px;
+
+border: 3px solid #FFFFFF;
+
+
+/* Line 5 */
+
+
+position: absolute;
+width: 574px;
+height: 0px;
+left: 174px;
+top: 1682px;
+
+border: 4px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 6 */
+
+
+position: absolute;
+width: 574px;
+height: 0px;
+left: 2811px;
+top: 1682px;
+
+border: 4px solid #000000;
+transform: rotate(90deg);
+
+
+/* Group 5 */
+
+
+position: absolute;
+width: 2985px;
+height: 272px;
+left: 0px;
+top: 3753px;
+
+
+
+/* Group 14 */
+
+
+position: absolute;
+width: 2925px;
+height: 582.09px;
+left: 30px;
+top: 37px;
