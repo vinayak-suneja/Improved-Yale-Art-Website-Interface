@@ -1,0 +1,946 @@
+/* Rectangle 12 */
+
+
+position: absolute;
+width: 2780px;
+height: 279.93px;
+left: -1px;
+top: 1864.71px;
+
+background: #162937;
+border-radius: 17.375px;
+
+
+/* image 1 */
+
+
+position: absolute;
+width: 200px;
+height: 222px;
+left: 144px;
+top: 94.71px;
+
+background: url(image.png);
+
+
+/* YALE SCHOOL OF ART */
+
+
+position: absolute;
+width: 982px;
+height: 114.57px;
+left: 376px;
+top: 144.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 98.2px;
+line-height: 115px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* Rectangle 1 */
+
+
+position: absolute;
+width: 2542px;
+height: 249px;
+left: 118px;
+top: 351.71px;
+
+background: #00497E;
+border-radius: 30.8889px;
+
+
+/* Rectangle 2 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 320.47px;
+height: 86.88px;
+left: 376px;
+top: 406.71px;
+
+background: #FFFFFF;
+border: 5.79167px solid #FFFFFF;
+box-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+border-radius: 32.8194px;
+
+
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 351px;
+height: 87px;
+left: 780.47px;
+top: 405.71px;
+
+background: #FFFFFF;
+box-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+border-radius: 32.8194px;
+
+
+/* Exhibitions */
+
+
+position: absolute;
+width: 281.86px;
+height: 55.99px;
+left: 817.07px;
+top: 419.28px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 42.4722px;
+line-height: 56px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 364px;
+height: 87px;
+left: 1214px;
+top: 405.71px;
+
+background: #FFFFFF;
+box-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+border-radius: 32.8194px;
+
+
+/* Publications */
+
+
+position: absolute;
+width: 306.96px;
+height: 55.99px;
+left: 1240px;
+top: 421.28px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 42.4722px;
+line-height: 56px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* Rectangle 5 */
+
+
+position: absolute;
+width: 320.47px;
+height: 86.88px;
+left: 1662px;
+top: 405.71px;
+
+background: #FFFFFF;
+box-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+border-radius: 32.8194px;
+
+
+/* Rectangle 6 */
+
+
+position: absolute;
+width: 320.47px;
+height: 86.88px;
+left: 2066.47px;
+top: 405.71px;
+
+background: #FFFFFF;
+box-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+border-radius: 32.8194px;
+
+
+/* Home */
+
+
+position: absolute;
+width: 111.97px;
+height: 61.78px;
+left: 484.11px;
+top: 418.29px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 46.3333px;
+line-height: 61px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* Staff */
+
+
+position: absolute;
+width: 140.93px;
+height: 61.78px;
+left: 1746.42px;
+top: 417.58px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 46.3333px;
+line-height: 61px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* More */
+
+
+position: absolute;
+width: 111.97px;
+height: 61.78px;
+left: 2131.11px;
+top: 415.49px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 46.3333px;
+line-height: 61px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* image 7 */
+
+
+position: absolute;
+width: 2544px;
+height: 1075px;
+left: 118px;
+top: 544.71px;
+
+background: url(image.png);
+
+
+/* Welcome to the Yale School of Art! */
+
+
+position: absolute;
+width: 1893.88px;
+height: 121.62px;
+left: 480.71px;
+top: 600.4px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 92.6667px;
+line-height: 122px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+text-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+
+
+/* Rectangle 7 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 633.22px;
+height: 386.11px;
+left: 343.64px;
+top: 1426.68px;
+
+background: #FFFFFF;
+border: 5.79167px solid #00497E;
+
+
+/* Click Here to find out more about the programs that Yale School of Art offers! */
+
+
+position: absolute;
+width: 625.5px;
+height: 162.17px;
+left: 337.85px;
+top: 1598.5px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 46.3333px;
+line-height: 55px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* Rectangle 8 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 633.22px;
+height: 386.11px;
+left: 1086.9px;
+top: 1426.68px;
+
+background: #FFFFFF;
+border: 5.79167px solid #00497E;
+
+
+/* Rectangle 9 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 633.22px;
+height: 386.11px;
+left: 1828.24px;
+top: 1426.68px;
+
+background: #FFFFFF;
+border: 5.79167px solid #00497E;
+
+
+/* The Yale School of Art is a graduate school that confers MFAs in Graphic Design, Painting/Printmaking, Photography and Sculpture and offers undergraduate level art courses to Yale College students. Based in Connecticut, USA, the Yale School of Art is a top ranked, prestigious institution that is looking for the brightest of students. */
+
+
+position: absolute;
+width: 2422.85px;
+height: 137.07px;
+left: 167.96px;
+top: 870.68px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 46.3333px;
+line-height: 61px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 320.47px;
+height: 106.18px;
+left: 1005.82px;
+top: 1166.06px;
+
+background: #00497E;
+
+
+/* Read More */
+
+
+position: absolute;
+width: 250.97px;
+height: 61.78px;
+left: 1041px;
+top: 1186.71px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 46.3333px;
+line-height: 61px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 11 */
+
+
+position: absolute;
+width: 320.47px;
+height: 106.18px;
+left: 1467.22px;
+top: 1166.06px;
+
+background: #00497E;
+
+
+/* Apply Now */
+
+
+position: absolute;
+width: 250.97px;
+height: 61.78px;
+left: 1501.97px;
+top: 1187.29px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 700;
+font-size: 46.3333px;
+line-height: 61px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Connect With Us */
+
+
+position: absolute;
+width: 345.57px;
+height: 54.06px;
+left: 1991px;
+top: 2061.83px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 47px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Programs */
+
+
+position: absolute;
+width: 279.93px;
+height: 81.08px;
+left: 519.32px;
+top: 1444.06px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 69.5px;
+line-height: 82px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+text-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+
+
+/* About The School */
+
+
+position: absolute;
+width: 511.6px;
+height: 81.08px;
+left: 1146.75px;
+top: 1444.06px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 69.5px;
+line-height: 82px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+text-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+
+
+/* Click Here to find out more about our institution! */
+
+
+position: absolute;
+width: 563.72px;
+height: 108.11px;
+left: 1121.65px;
+top: 1598.5px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 46.3333px;
+line-height: 55px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* News and Public Events */
+
+
+position: absolute;
+width: 652.53px;
+height: 131.28px;
+left: 1810.86px;
+top: 1444.06px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 69.5px;
+line-height: 82px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+text-shadow: 0px 7.72222px 7.72222px rgba(0, 0, 0, 0.25);
+
+
+/* Click here to find out more about upcoming events on campus! */
+
+
+position: absolute;
+width: 548.28px;
+height: 162.17px;
+left: 1870.71px;
+top: 1598.5px;
+
+font-family: 'Abhaya Libre';
+font-style: normal;
+font-weight: 700;
+font-size: 46.3333px;
+line-height: 55px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #00497E;
+
+
+
+/* image 15 */
+
+
+position: absolute;
+width: 52.12px;
+height: 52.12px;
+left: 2285.56px;
+top: 425.14px;
+
+background: url(.png);
+
+
+/* Line 3 */
+
+
+position: absolute;
+width: 71.43px;
+height: 0px;
+left: 2351.42px;
+top: 2123.61px;
+
+border: 3.86111px solid #FFFFFF;
+transform: rotate(-90deg);
+
+
+/* Group 1 */
+
+
+position: absolute;
+width: 73.36px;
+height: 73.36px;
+left: 2287.71px;
+top: 1888.08px;
+
+
+
+/* Group 2 */
+
+
+position: absolute;
+width: 59.85px;
+height: 59.85px;
+left: 2393.89px;
+top: 2057.97px;
+
+
+
+/* Vector */
+
+
+position: absolute;
+left: 89.44%;
+right: 8.33%;
+top: 95.69%;
+bottom: 1.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+left: 92.85%;
+right: 5%;
+top: 95.69%;
+bottom: 1.53%;
+
+background: #FFFFFF;
+
+
+/* Vector */
+
+
+position: absolute;
+left: 96.18%;
+right: 1.39%;
+top: 95.51%;
+bottom: 1.35%;
+
+background: #FFFFFF;
+
+
+/* instagram */
+
+
+position: absolute;
+width: 77.22px;
+height: 77.22px;
+left: 2399.68px;
+top: 1886.15px;
+
+
+
+/* Linkedin */
+
+
+position: absolute;
+width: 77.22px;
+height: 77.22px;
+left: 2515.51px;
+top: 1886.15px;
+
+
+
+/* youtube */
+
+
+position: absolute;
+width: 84.94px;
+height: 84.94px;
+left: 2631.35px;
+top: 1882.29px;
+
+
+
+/* 1156 Chapel St, New Haven, CT 06511, USA */
+
+
+position: absolute;
+width: 518.31px;
+height: 31.28px;
+left: 85px;
+top: 2049.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+
+
+/* Group 3 */
+
+
+position: absolute;
+width: 60px;
+height: 60px;
+left: 13px;
+top: 2055.71px;
+
+
+
+/* Rectangle 14 */
+
+
+box-sizing: border-box;
+
+position: absolute;
+width: 847.51px;
+height: 110.04px;
+left: 1814.72px;
+top: 154.44px;
+
+background: #FFFFFF;
+border: 1.93056px solid #00497E;
+border-radius: 52.125px;
+
+
+/* image 6 */
+
+
+position: absolute;
+width: 50.19px;
+height: 52.12px;
+left: 1861.06px;
+top: 183.4px;
+
+background: url(.png);
+
+
+/* Search */
+
+
+position: absolute;
+width: 164.1px;
+height: 59.94px;
+left: 1946px;
+top: 175.68px;
+
+font-family: 'Roboto Mono';
+font-style: normal;
+font-weight: 400;
+font-size: 45.4827px;
+line-height: 60px;
+/* identical to box height */
+
+display: flex;
+align-items: center;
+text-align: center;
+
+color: rgba(0, 73, 126, 0.45);
+
+
+
+/* Mail: art.admissions@yale.edu Phone: 203-432-2600 */
+
+
+position: absolute;
+width: 486px;
+height: 87px;
+left: 2274px;
+top: 1868.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 175.19%;
+/* or 56px */
+
+
+color: #C8C8C8;
+
+
+
+/* Group 4 */
+
+
+position: absolute;
+width: 360px;
+height: 42px;
+left: 17px;
+top: 1878.71px;
+
+
+
+/* Vector */
+
+
+position: absolute;
+left: 48.45%;
+right: 50.52%;
+top: 43.7%;
+bottom: 55.37%;
+
+background: #000000;
+
+
+/* University Handbooks      */
+
+
+position: absolute;
+width: 331px;
+height: 114px;
+left: 800px;
+top: 1870px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+text-decoration-line: underline;
+
+color: #FFFFFF;
+
+
+
+/* Alumni */
+
+
+position: absolute;
+width: 401px;
+height: 112px;
+left: 800px;
+top: 2029.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+
+
+/* Committees */
+
+
+position: absolute;
+width: 442px;
+height: 98px;
+left: 1293px;
+top: 1945.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+
+
+/* Guidelines */
+
+
+position: absolute;
+width: 318px;
+height: 74px;
+left: 1292px;
+top: 2028.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
+
+
+
+/* Locate Colleges */
+
+
+position: absolute;
+width: 229px;
+height: 38px;
+left: 1673px;
+top: 1945.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+
+
+/* Rules and Policies */
+
+
+position: absolute;
+width: 280px;
+height: 70px;
+left: 1673px;
+top: 2024.71px;
+
+font-family: 'Roboto';
+font-style: normal;
+font-weight: 400;
+font-size: 32px;
+line-height: 38px;
+
+color: #FFFFFF;
