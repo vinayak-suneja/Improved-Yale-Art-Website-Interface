@@ -1,0 +1,406 @@
+/* photo-1599687351724-dfa3c4ff81b1 1 */
+
+
+position: absolute;
+width: 1316px;
+height: 582px;
+left: 27px;
+top: 324px;
+
+background: url(photo-1599687351724-dfa3c4ff81b1.jpg);
+filter: blur(4px) drop-shadow(7.1px 7.1px 26.62px rgba(0, 0, 0, 0.5));
+border-radius: 62.11px;
+
+
+/* The Yale School of Art is a graduate school that confers Master of Fine Arts Degrees in Graphic Design, Painting/Printmaking, Photography, and Sculpture */
+
+
+position: absolute;
+width: 1251px;
+height: 141px;
+left: 59px;
+top: 558px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 800;
+font-size: 30px;
+line-height: 38px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* For information on applications to the MFA program, please click the “Graduate Admission” link below. The undergraduate admissions process is handled entirely through Yale College. Please refer all undergraduate admissions questions to the Yale College Undergraduate Admissions Office. */
+
+
+position: absolute;
+width: 1227px;
+height: 195px;
+left: 71px;
+top: 711px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 400;
+font-size: 26.5px;
+line-height: 34px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 7 */
+
+
+position: absolute;
+width: 396px;
+height: 171px;
+left: 39px;
+top: 937px;
+
+background: linear-gradient(90.02deg, #0F2331 0.02%, #004B82 92.17%);
+box-shadow: 7.1px 7.1px 26.62px rgba(0, 0, 0, 0.5);
+border-radius: 62.11px;
+
+
+/* Rectangle 9 */
+
+
+position: absolute;
+width: 396px;
+height: 171px;
+left: 39px;
+top: 1143px;
+
+background: linear-gradient(90.02deg, #0F2331 0.02%, #004B82 92.17%);
+box-shadow: 7.1px 7.1px 26.62px rgba(0, 0, 0, 0.5);
+border-radius: 62.11px;
+
+
+/* Rectangle 10 */
+
+
+position: absolute;
+width: 396px;
+height: 171px;
+left: 886px;
+top: 1143px;
+
+background: linear-gradient(90.02deg, #004B82 25.07%, #01223A 43.74%, #011726 59.36%, #012E4E 78.69%, #004B82 117.22%);
+box-shadow: 7.1px 7.1px 26.62px rgba(0, 0, 0, 0.5);
+border-radius: 62.11px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 14 */
+
+
+position: absolute;
+width: 396px;
+height: 171px;
+left: 1330px;
+top: 1143px;
+
+background: linear-gradient(90.02deg, #0F2331 0.02%, #004B82 92.17%);
+box-shadow: 7.1px 7.1px 26.62px rgba(0, 0, 0, 0.5);
+border-radius: 62.11px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Tuition, Fees and Finance */
+
+
+position: absolute;
+width: 264px;
+height: 108px;
+left: 105px;
+top: 1175px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Graduate Admission */
+
+
+position: absolute;
+width: 315px;
+height: 54px;
+left: 79px;
+top: 996px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+display: flex;
+align-items: center;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 8 */
+
+
+position: absolute;
+width: 396px;
+height: 171px;
+left: 886px;
+top: 937px;
+
+background: linear-gradient(90.02deg, #004B82 25.07%, #01223A 43.74%, #011726 59.36%, #012E4E 78.69%, #004B82 117.22%);
+box-shadow: 7.1px 7.1px 26.62px rgba(0, 0, 0, 0.5);
+border-radius: 62.11px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Rectangle 13 */
+
+
+position: absolute;
+width: 396px;
+height: 171px;
+left: 1330px;
+top: 937px;
+
+background: linear-gradient(90.02deg, #0F2331 0.02%, #004B82 92.17%);
+box-shadow: 7.1px 7.1px 26.62px rgba(0, 0, 0, 0.5);
+border-radius: 62.11px;
+transform: matrix(-1, 0, 0, 1, 0, 0);
+
+
+/* Undergraduate Admission */
+
+
+position: absolute;
+width: 410px;
+height: 112px;
+left: 483px;
+top: 967px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Housing */
+
+
+position: absolute;
+width: 410px;
+height: 112px;
+left: 927px;
+top: 967px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Courses */
+
+
+position: absolute;
+width: 128px;
+height: 54px;
+left: 624px;
+top: 1202px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Brochures and  Documentation */
+
+
+position: absolute;
+width: 241px;
+height: 108px;
+left: 1012px;
+top: 1175px;
+
+font-family: 'Overpass';
+font-style: normal;
+font-weight: 400;
+font-size: 35px;
+line-height: 44px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Line 20 */
+
+
+position: absolute;
+width: 171px;
+height: 0px;
+left: 464px;
+top: 937px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 25 */
+
+
+position: absolute;
+width: 396px;
+height: 0px;
+left: 435px;
+top: 1125px;
+
+border: 1px solid #000000;
+transform: rotate(180deg);
+
+
+/* Line 26 */
+
+
+position: absolute;
+width: 396px;
+height: 0px;
+left: 886px;
+top: 1125px;
+
+border: 1px solid #000000;
+transform: rotate(180deg);
+
+
+/* Line 27 */
+
+
+position: absolute;
+width: 396px;
+height: 0px;
+left: 1330px;
+top: 1125px;
+
+border: 1px solid #000000;
+transform: rotate(180deg);
+
+
+/* Line 24 */
+
+
+position: absolute;
+width: 171px;
+height: 0px;
+left: 912px;
+top: 1143px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 23 */
+
+
+position: absolute;
+width: 171px;
+height: 0px;
+left: 912px;
+top: 937px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* Line 22 */
+
+
+position: absolute;
+width: 171px;
+height: 0px;
+left: 464px;
+top: 1143px;
+
+border: 1px solid #000000;
+transform: rotate(90deg);
+
+
+/* Apply To The School */
+
+
+position: absolute;
+width: 1032px;
+height: 178px;
+left: 169px;
+top: 338px;
+
+font-family: 'Georgia';
+font-style: normal;
+font-weight: 400;
+font-size: 95px;
+line-height: 108px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #FFFFFF;
+
+border: 1px solid #000000;
+
+
+/* Group 14 */
+
+
+position: absolute;
+width: 1330px;
+height: 264.68px;
+left: 20px;
+top: 28px;
+
+
+
+/* Group 5 */
+
+
+position: absolute;
+width: 1370px;
+height: 137.95px;
+left: 0px;
+top: 1345px;
